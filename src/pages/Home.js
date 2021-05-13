@@ -19,6 +19,7 @@ export const Home = () => {
                 <div className="col">
                     <h1>FREE PALESTINE</h1>
                     <h1>BLACK LIVES MATTER</h1>
+                    <p>This is my portfolio but I feel I should at least do something about the horror being placed on Palestine.</p>
                 </div>
             </div>
         </div>
