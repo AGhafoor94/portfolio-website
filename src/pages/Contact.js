@@ -1,5 +1,6 @@
 
 export const Contact = () => {
+
     const contacts = [
         {
             name: "GitHub",
