@@ -14,6 +14,14 @@ export const Home = () => {
                     }
             </div>
         </div>
+        <div className="container">
+            <div className="row">
+                <div className="col">
+                    <h1>FREE PALESTINE</h1>
+                    <h1>BLACK LIVES MATTER</h1>
+                </div>
+            </div>
+        </div>
         </>
     )
 }
