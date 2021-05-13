@@ -12,6 +12,9 @@ export const Routes = () => {
       <Router>
         <Navigation />
         <Switch>
+          <Route path="/" exact>
+            <Home />
+          </Route>
           <Route path="/portfolio-website/" exact>
             <Home />
           </Route>
