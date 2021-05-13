@@ -1,10 +1,10 @@
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import {Navigation} from "../Navigation";
 import { Contact } from "../pages/Contact";
 import { Home } from "../pages/Home";
 import { Portfolio } from "../pages/Portfolio";
+import { Navigation } from "./Navigation";
 
 export const Routes = () => {
   return (

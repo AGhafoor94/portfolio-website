@@ -1,6 +1,6 @@
 
-import { Navigation } from './components/Navigation';
+import { Routes } from './components/Routes';
 
-const App = () => <Navigation/>
+const App = () => <Routes/>
 
 export default App
