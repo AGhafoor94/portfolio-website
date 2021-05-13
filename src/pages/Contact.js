@@ -23,7 +23,7 @@ export const Contact = () => {
                     {
                         contacts.map((item, key)=>{
                             return (
-                                <div className="col-sm-12 col-md-3 my-2" key={key}>
+                                <div className="col-sm-12 col-md-6 my-2" key={key}>
                                     <div className="card-group h-100">
                                         <div className="card">
                                             <img src={item.image}className="card-img-top" alt={item.alt}/>
